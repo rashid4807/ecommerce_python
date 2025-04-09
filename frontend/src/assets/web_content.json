@@ -1,0 +1,106 @@
+{
+  "title": "E-Shop",
+  "brand": "Your online shopping place",
+  "social_media": [
+    {
+      "title": "Facebook",
+      "link": "https://www.facebook.com/feed/"
+    },
+    {
+      "title": "Whatsapp",
+      "link": "https://www.linkedin.com/feed/"
+    },
+    {
+      "title": "Linkedin",
+      "link": "https://www.linkedin.com/feed/"
+    },
+    {
+      "title": "Website",
+      "link": "https://www.robustbinary.com/"
+    }
+  ],
+  "product_category": [
+    {
+      "heading": "Electronics",
+      "description": "Explore the latest in mobile, laptop, audio, and accessories."
+    },
+    {
+      "heading": "Fashion",
+      "description": "Stay trendy with our clothing, footwear, and accessories."
+    },
+    {
+      "heading": "Grocery",
+      "description": "Fresh and packaged essentials for daily needs."
+    },
+    {
+      "heading": "Home Decor",
+      "description": "Enhance your living space with our stylish collection."
+    }
+  ],
+  "product_list": [
+    {
+      "id": 201,
+      "name": "Smartphone - X200 Pro",
+      "category": "Electronics",
+      "price": 699.00,
+      "currency": "USD",
+      "availability": "In Stock"
+    },
+    {
+      "id": 202,
+      "name": "Noise Cancelling Headphones",
+      "category": "Electronics",
+      "price": 129.99,
+      "currency": "USD",
+      "availability": "In Stock"
+    },
+    {
+      "id": 203,
+      "name": "Women's Summer Dress",
+      "category": "Fashion",
+      "price": 45.00,
+      "currency": "USD",
+      "availability": "Limited Stock"
+    },
+    {
+      "id": 204,
+      "name": "Men's Denim Jacket",
+      "category": "Fashion",
+      "price": 79.99,
+      "currency": "USD",
+      "availability": "In Stock"
+    },
+    {
+      "id": 205,
+      "name": "Organic Basmati Rice - 5kg",
+      "category": "Grocery",
+      "price": 19.50,
+      "currency": "USD",
+      "availability": "In Stock"
+    },
+    {
+      "id": 206,
+      "name": "Almond Butter - 500g",
+      "category": "Grocery",
+      "price": 8.99,
+      "currency": "USD",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": 207,
+      "name": "Wooden Wall Clock",
+      "category": "Home Decor",
+      "price": 34.99,
+      "currency": "USD",
+      "availability": "In Stock"
+    },
+    {
+      "id": 208,
+      "name": "LED Fairy Lights - 10m",
+      "category": "Home Decor",
+      "price": 15.00,
+      "currency": "USD",
+      "availability": "In Stock"
+    }
+  ]
+}
